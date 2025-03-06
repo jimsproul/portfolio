@@ -1,7 +1,10 @@
 # portfolio
 
+This github repository was assembled to demonstrate my use of technology. It is difficult for you to evaluate my on the job use of these tools. The code I wrote belongs to my employers. Therefore the basis of examples provided here are courses and guided freely available on the internet. My primary sources are Coursera.org and Udemy.com. Specific references can be found in the README files. 
 
+The code included in the examples found here represent my adaptation of these courses and projects. You are welcome to examin the instructors provided example code. 
 
+- Jim Sproul, 2025
 
 
 
